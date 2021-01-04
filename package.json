@@ -1,0 +1,15 @@
+{
+  "name": "web-audio-api-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "author": "lecepin <leping086@vip.qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
