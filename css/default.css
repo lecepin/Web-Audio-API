@@ -1,0 +1,9 @@
+.gitbook-link {
+  display: none !important;
+}
+
+.markdown-section img{
+  max-width: 99%;
+  box-shadow: 1px 1px 5px;
+  margin-left: 3px;
+}
